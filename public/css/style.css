@@ -1,0 +1,42 @@
+
+.diana{
+    padding-left: 52px;
+}
+.caja{
+    padding-left: 210px;
+    padding-bottom: 5px;
+    display: block;
+
+    margin: 0;
+    border-bottom: 50px;
+}
+.fot{
+    padding-top: 500px;
+    border-bottom: 50px;
+}
+.tit{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-bottom: 50px;
+    background-color: black;
+    color: gold;
+}
+header{
+   font-family: "Arial Black";
+    text-align: center;
+}
+.navar{
+    padding-left: 200px;
+    padding-bottom: 5px;
+
+
+}
+img{
+    width: 550px;
+    display: block;
+    margin: auto;
+
+}
+.imagenes h2{
+    text-align: center;
+}
